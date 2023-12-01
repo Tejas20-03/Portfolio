@@ -9,6 +9,7 @@ import {
 
 import { FaYoutube } from "react-icons/fa";
 import { Socials } from "@/constants";
+import Image from "next/image";
 
 const Footer = () => {
   return (
@@ -64,7 +65,7 @@ const Footer = () => {
         <div className="mb-[10px] text-[15px] text-center flex gap-2">
           <span>&copy; Designed by Tejas Chhabra with{" "}</span>
           <span>
-            <img
+            <Image
               src="/red-heart-icon.png"
               alt="heart-icon"
               height="20"
