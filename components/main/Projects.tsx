@@ -25,7 +25,7 @@ const Projects = () => {
           The website may also have a section for employers who are looking to recruit students and alumni. This section may include information on how to post job openings, how to contact students and alumni, and how to schedule interviews."
         />
         <ProjectCard
-          src="/proj3.png"
+          src="/Proj3.png"
           title="Spardha: Coding Competition Platform"
           description="Spardha offers hundreds of competitive programming challenges. It is one of the best site for competitive programming that allows you to write code in their online editor and view a collection of challenges. The coding problems are separated into different categories based on your skill level. Competitive coding is a great way to improve your programming skills and learn new algorithms."
         />
